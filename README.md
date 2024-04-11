@@ -1,2 +1,2 @@
 # SCALE
-Découvre le projet avec mon poster explicatif !
+Découvrez le projet avec mon poster explicatif !
